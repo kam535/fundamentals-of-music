@@ -6,7 +6,7 @@ layout: page
     {% if page.profiles %}
       {% for profile in page.profiles %}
         <hr>
-        <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
+        <div class="profile float-{% if profile.align == 'left' %}left{% elsif profile.align == 'right' %}right{% else %}center{% endif %}">
           {% if profile.image %}
             {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
             {% if profile.image_circular %}
@@ -17,6 +17,14 @@ layout: page
             {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
             {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
           {% endif %}
+          {% if profile.audio %}
+            {%
+              include audio.liquid
+              path=profile.audio
+              controls=true
+              class="audio-player"
+            %}
+        {% endif %}
           {% if profile.more_info %}
             <div class="more-info">{{ profile.more_info }}</div>
           {% endif %}

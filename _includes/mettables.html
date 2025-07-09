@@ -1,0 +1,46 @@
+
+<table>
+    {% assign current_page = page.path | split: '.md' | first %}
+    {% assign test_page = current_page | split: '_projects/' | last %}
+    {% assign metfun = site.data.metfun | where: "page-title", test_page | first %}
+    <colgroup>
+        <col span="1" style="width: 40%;">
+        <col span="1" style="width: 60%;">
+    </colgroup>
+    <tr>
+        <th>audio file name</th>
+        <td>{{ metfun.audio_file_name }}</td>
+    </tr>
+    <tr>
+        <th>source</th>
+        <td>{{ metfun.source }}</td>
+    </tr>
+    <tr>
+        <th>genus</th>
+        <td>{{ metfun.genera }}</td>
+    </tr>
+    <tr>
+        <th>sub-genus</th>
+        <td>{{ metfun.sub-genera }}</td>
+    </tr>
+    <tr>
+        <th>synemmenon or diezeugmenon</th>
+        <td>{{ metfun.diezeugmenon_synemmenon }}</td>
+    </tr>
+    <tr>
+        <th>duration</th>
+        <td>{{ metfun.duration }}</td>
+    </tr>
+    <tr>
+        <th># of notes</th>
+        <td>{{ metfun.note_number }}</td>
+    </tr>
+    <tr>
+        <th>frequency of notes (Hz)</th>
+        <td>{{ metfun.note_frequency }}</td>
+    </tr>
+    <tr>
+        <th>frequency of mese (Hz)</th>
+        <td>{{ metfun.mese_frequency }}</td>
+    </tr>
+</table>

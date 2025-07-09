@@ -4,6 +4,13 @@
 
 // Typography
 
+.audio-player {
+     background-color: var(--global-divider-color);
+     border-radius: 5px;
+     padding: 10px;
+     width: auto;
+    }
+
 p,
 h1,
 h2,
@@ -27,7 +34,6 @@ table {
   td,
   th {
     font-size: 1rem;
-    padding: 1px 1rem 1px 0;
   }
 
   th {
@@ -195,13 +201,24 @@ ul.task-list input[type="checkbox"] {
 .profile {
   width: 100%;
 
+ img {
+      width: 100%;
+    }
+    audio {
+      width: 100%;
+    }
+
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    margin-left: 3px;
+    margin-right: 3px;
+    text-align: center;
+    font-family: arial;
+
 
     p {
-      display: inline-block;
+      //display: inline-block;
       margin: 0;
     }
   }
@@ -670,7 +687,18 @@ footer.sticky-bottom {
     img {
       width: 100%;
     }
+    audio {
+      width: 100%;
+    }
   }
+
+.audio-player {
+     background-color: var(--global-divider-color);
+     border-radius: 5px;
+     padding: 10px;
+     width: auto;
+    }
+
 
   .col {
     padding-bottom: 1rem;
@@ -683,7 +711,7 @@ footer.sticky-bottom {
   }
 
   h2.category {
-    color: var(--global-divider-color);
+    color: var(--global-text-color-light);
     border-bottom: 1px solid var(--global-divider-color);
     padding-top: 0.5rem;
     margin-top: 2rem;
@@ -721,6 +749,7 @@ footer.sticky-bottom {
     text-align: right;
   }
 
+  
   ol.bibliography {
     list-style: none;
     padding: 0;
@@ -729,8 +758,8 @@ footer.sticky-bottom {
     li {
       margin-bottom: 1rem;
 
-      .preview {
-      }
+      // .preview {
+      // }
 
       .abbr {
         margin-bottom: 0.5rem;

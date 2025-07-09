@@ -1,0 +1,62 @@
+page-title,audio_file_name,source,genera,sub-genera,diezeugmenon_synemmenon,duration,note_number,note_frequency,mese_frequency
+b_d_scale_full_d,b_d_scale_full_d.mp3,Boethius,diatonic,n/a,diezeugmenon,0:10,15,"216.0, 243.0. 256.0, 288.0, 324.0, 341.3, 384.0, 432.0, 486.0, 512.0, 576.0, 648.0, 682.7, 768.0, 864.0",432.0
+b_c_scale_full_d,b_c_scale_full_d.mp3,Boethius,chromatic,n/a,diezeugmenon,0:10,15,"216.0, 243.0, 256.0, 272.8, 324.0, 341.3, 363.8, 432.0, 486.0, 512.0, 545.7, 648.0, 682.7, 727.6, 864.0",432.0
+b_e_scale_full_d,b_e_scale_full_d.mp3,Boethius,enharmonic,n/a,diezeugmenon,0:10,15,"216.0, 243.0, 249.3, 256.0, 324.0, 332.4, 341.3, 432.0, 486.9, 498.7, 512.0, 648.0, 664.9, 682.7, 864.0",432.0
+b_d_scale_full_s,b_d_scale_full_s.mp3,Boethius,diatonic,n/a,synemmenon,0:10,15,"216.0, 243.0. 256.0, 288.0, 324.0, 341.3, 384.0, 432.0, 455.1, 512.0, 576.0, 648.0, 682.7, 768.0, 864.0",432.0
+b_c_scale_full_s,b_c_scale_full_s.mp3,Boethius,chromatic,n/a,synemmenon,0:10,15,"216.0, 243.0, 256.0, 272.8, 324.0, 341.3, 363.8, 432.0, 455.1, 485.1, 576.0, 648.0, 682.7, 727.6, 864.0",432.0
+b_e_scale_full_s,b_e_scale_full_s.mp3,Boethius,enharmonic,n/a,synemmenon,0:10,15,"216.0, 243.0, 249.3, 256.0, 324.0, 332.4, 341.3, 432.0, 443.3, 455.1, 576.0, 648.0, 664.9, 682.7, 864.0",432.0
+x_shd_scale_full_d,x_shd_scale_full_d.mp3,Aristoxenus,diatonic,sharp diatonic,diezeugmenon,0:10,15,"216.0, 243.0, 257.4, 288.8, 324.0, 343.2, 385.0, 432.0, 486.0, 514.8, 577.6, 648.0, 686.4, 770.1, 864.0",432.0
+x_sod_scale_full_d,x_sod_scale_full_d.mp3,Aristoxenus,diatonic,soft diatonic,diezeugmenon,0:10,15,"216.0, 243.0, 257.4, 280.6, 324.0, 343.2, 374.1, 432.0, 486.0, 514.8, 561.2, 648.0, 686.4, 748.2, 864.0",432.0
+x_tc_scale_full_d,x_tc_scale_full_d.mp3,Aristoxenus,chromatic,tonic chromatic,diezeugmenon,0:10,15,"216.0, 243.0, 257.4, 272.6, 324.0, 343.2, 363.5, 432.0, 486.0, 514.8, 545.3, 648.0, 686.4, 727.0, 864.0",432.0
+x_hc_scale_full_d,x_hc_scale_full_d.mp3,Aristoxenus,chromatic,hemiolic chromatic,diezeugmenon,0:10,15,"216.0, 243.0, 253.7, 264.9, 324.0, 338.3, 353.2, 432.0, 486.0, 507.4, 529.8, 648.0, 676.6, 706.4, 864.0",432.0
+x_sc_scale_full_d,x_sc_scale_full_d.mp3,Aristoxenus,chromatic,soft chromatic,diezeugmenon,0:10,15,"216.0, 243.0, 252.5, 262.4, 324.0, 336.7, 349.8, 432.0, 486.0, 505.0, 524.8, 648.0, 673.3, 699.7, 864.0",432.0
+x_e_scale_full_d,x_e_scale_full_d.mp3,Aristoxenus,enharmonic,n/a,diezeugmenon,0:10,15,"216.0, 243.0, 250.1, 257.4, 324.0. 333.5. 343.2, 432.0, 486.0, 500.2, 514.8, 648.0, 666.9, 686.4, 864.0",432.0
+x_shd_scale_full_s,x_shd_scale_full_s.mp3,Aristoxenus,diatonic,sharp diatonic,synemmenon,0:10,15,"216.0, 243.0, 257.4, 288.8, 324.0, 343.2, 385.0, 432.0, 457.6, 513.4, 576.0, 648.0, 686.4, 770.1, 864.0",432.0
+x_sod_scale_full_s,x_sod_scale_full_s.mp3,Aristoxenus,diatonic,soft diatonic,synemmenon,0:10,15,"216.0, 243.0, 257.4, 280.6, 324.0, 343.2, 374.1, 432.0, 457.6, 498.8, 576.0, 648.0, 686.4, 748.2, 864.0",432.0
+x_tc_scale_full_s,x_tc_scale_full_s.mp3,Aristoxenus,chromatic,tonic chromatic,synemmenon,0:10,15,"216.0, 243.0, 257.4, 272.6, 324.0, 343.2, 363.5, 432.0, 457.6, 484.7, 576.0, 648.0, 686.4, 727.0, 864.0",432.0
+x_hc_scale_full_s,x_hc_scale_full_s.mp3,Aristoxenus,chromatic,hemiolic chromatic,synemmenon,0:10,15,"216.0, 243.0, 253.7, 264.9, 324.0, 338.3, 353.2, 432.0, 451.0, 470.9, 576.0, 648.0, 676.6, 706.4, 864.0",432.0
+x_sc_scale_full_s,x_sc_scale_full_s.mp3,Aristoxenus,chromatic,soft chromatic,synemmenon,0:10,15,"216.0, 243.0, 252.5, 262.4, 324.0, 336.7, 349.8, 432.0, 448.9, 466.4, 576.0, 648.0, 673.3, 699.7, 864.0",432.0
+x_e_scale_full_s,x_e_scale_full_s.mp3,Aristoxenus,enharmonic,n/a,synemmenon,0:10,15,"216.0, 243.0, 250.1, 257.4, 324.0, 333.5, 343.2, 432.0, 444.6, 457.6, 576.0, 648.0, 666.9, 686.4, 864.0",432.0
+y_d_scale_full_d,y_d_scale_full_d.mp3,Archytas,diatonic,n/a,diezeugmenon,0:10,15,"216.0, 243.0, 252.0, 288.0, 324.0, 336.0, 384.0, 432.0, 486.0, 504.0, 576.0, 648.0, 672.0, 768.0, 864.0",432.0
+y_c_scale_full_d,y_c_scale_full_d.mp3,Archytas,chromatic,n/a,diezeugmenon,0:10,15,"216.0, 243.0, 252.0, 273.4, 324.0, 336.0, 364.5, 432.0, 486.0, 504.0, 546.8, 648.0, 672.0, 729.0, 864.0",432.0
+y_e_scale_full_d,y_e_scale_full_d.mp3,Archytas,enharmonic,n/a,diezeugmenon,0:10,15,"216.0, 243.0, 252.0, 259.2, 324.0, 336.0, 345.6, 432.0, 486.0, 504.0, 518.4, 648.0, 672.0, 691.2, 864.0",432.0
+y_d_scale_full_s,y_d_scale_full_s.mp3,Archytas,diatonic,n/a,synemmenon,0:10,15,"216.0, 243.0, 252.0, 288.0, 324.0, 336.0, 384.0, 432.0, 448.0, 512.0, 576.0, 648.0, 672.0, 768.0, 864.0",432.0
+y_c_scale_full_s,y_c_scale_full_s.mp3,Archytas,chromatic,n/a,synemmenon,0:10,15,"216.0, 243.0, 252.0, 273.4, 324.0, 336.0, 364.5, 432.0, 448.0, 486.0, 576.0, 648.0, 672.0, 729.0, 864.0",432.0
+y_e_scale_full_s,y_e_scale_full_s.mp3,Archytas,enharmonic,n/a,synemmenon,0:10,15,"216.0, 243.0, 252.0, 259.2, 324.0, 336.0, 345.6, 432.0, 448.0, 460.8, 576.0, 648.0, 672.0, 691.2, 864.0",432.0
+b_d_tetra_solo,b_d_tetra_solo.mp3,Boethius,diatonic,n/a,n/a,0:03,4,"432.0, 455.1, 512.0, 576.0",432.0
+b_c_tetra_solo,b_c_tetra_solo.mp3,Boethius,chromatic,n/a,n/a,0:03,4,"432.0, 455.1, 485.1, 576.0",432.0
+b_e_tetra_solo,b_e_tetra_solo.mp3,Boethius,enharmonic,n/a,n/a,0:03,4,"432.0, 443.3, 455.1, 576.0",432.0
+x_shd_tetra_solo,x_shd_tetra_solo.mp3,Aristoxenus,diatonic,sharp diatonic,n/a,0:03,4,"432.0, 457.6, 513.4, 576.0",432.0
+x_sod_tetra_solo,x_sod_tetra_solo.mp3,Aristoxenus,diatonic,soft diatonic,n/a,0:03,4,"432.0, 457.6, 498.8, 576.0",432.0
+x_tc_tetra_solo,x_tc_tetra_solo.mp3,Aristoxenus,chromatic,tonic chromatic,n/a,0:03,4,"432.0, 457.6, 484.7, 576.0",432.0
+x_hc_tetra_solo,x_hc_tetra_solo.mp3,Aristoxenus,chromatic,hemiolic chromatic,n/a,0:03,4,"432.0, 451.0, 470.9, 576.0",432.0
+x_sc_tetra_solo,x_sc_tetra_solo.mp3,Aristoxenus,chromatic,soft chromatic,n/a,0:03,4,"432.0, 448.9, 466.4, 576.0",432.0
+x_e_tetra_solo,x_e_tetra_solo.mp3,Aristoxenus,enharmonic,n/a,n/a,0:03,4,"432.0, 444.6, 457.6, 576.0",432.0
+y_d_tetra_solo,y_d_tetra_solo.mp3,Archytas,diatonic,n/a,n/a,0:03,4,"432.0, 448.0, 512.0, 576.0",432.0
+y_c_tetra_solo,y_c_tetra_solo.mp3,Archytas,chromatic,n/a,n/a,0:03,4,"432.0, 448.0, 486.0, 576.0",432.0
+y_e_tetra_solo,y_e_tetra_solo.mp3,Archytas,enharmonic,n/a,n/a,0:03,4,"432.0, 448.0, 460.8, 576.0",432.0
+b_d_tetra_j,b_d_tetra_j.mp3,Boethius,diatonic,n/a,n/a,0:05,7,"324.0, 341.3, 384.0, 432.0, 455.1, 512.0, 576.0",432.0
+b_c_tetra_j,b_c_tetra_j.mp3,Boethius,chromatic,n/a,n/a,0:05,7,"324.0, 341.3, 363.8, 432.0, 455.1, 485.1, 576.0",432.0
+b_e_tetra_j,b_e_tetra_j.mp3,Boethius,enharmonic,n/a,n/a,0:05,7,"324.0, 332.4, 341.3, 432.0, 443.3, 455.1, 576.0",432.0
+x_shd_tetra_j,x_shd_tetra_j.mp3,Aristoxenus,diatonic,sharp diatonic,n/a,0:05,7,"324.0, 343.2, 385.0, 432.0, 457.6, 513.4, 576.0",432.0
+x_sod_tetra_j,x_sod_tetra_j.mp3,Aristoxenus,diatonic,soft diatonic,n/a,0:05,7,"324.0, 343.2, 374.1, 432.0, 457.6, 498.8, 576.0",432.0
+x_tc_tetra_j,x_tc_tetra_j.mp3,Aristoxenus,chromatic,tonic chromatic,n/a,0:05,7,"324.0, 343.2, 363.5, 432.0, 457.6, 484.7, 576.0",432.0
+x_hc_tetra_j,x_hc_tetra_j.mp3,Aristoxenus,chromatic,hemiolic chromatic,n/a,0:05,7,"324.0, 338.3, 353.2, 432.0, 451.0, 470.9, 576.0",432.0
+x_sc_tetra_j,x_sc_tetra_j.mp3,Aristoxenus,chromatic,soft chromatic,n/a,0:05,7,"324.0, 336.7, 349.8, 432.0, 448.9, 466.4
+576.0",432.0
+x_e_tetra_j,x_e_tetra_j.mp3,Aristoxenus,enharmonic,n/a,n/a,0:05,7,"324.0, 333.5, 343.2, 432.0, 444.6, 457.6, 576.0",432.0
+y_d_tetra_j,y_d_tetra_j.mp3,Archytas,diatonic,n/a,n/a,0:05,7,"324.0, 336.0, 384.0, 432.0, 448.0, 512.0, 576.0",432.0
+y_c_tetra_j,y_c_tetra_j.mp3,Archytas,chromatic,n/a,n/a,0:05,7,"324.0, 336.0, 364.5, 432.0, 448.0, 486.0, 576.0",432.0
+y_e_tetra_j,y_e_tetra_j.mp3,Archytas,enharmonic,n/a,n/a,0:05,7,"324.0, 336.0, 345.6, 432.0, 448.0, 460.8, 576.0",432.0
+b_d_tetra_dj,b_d_tetra_dj.mp3,Boethius,diatonic,n/a,n/a,0:05,8,"324.0, 341.3, 384.0, 432.0, 486.0, 512.0, 576.0, 648.0",432.0
+b_c_tetra_dj,b_c_tetra_dj.mp3,Boethius,chromatic,n/a,n/a,0:05,8,"324.0, 341.3, 363.8, 432.0, 486.0, 512.0, 545.7, 648.0",432.0
+b_e_tetra_dj,b_e_tetra_dj.mp3,Boethius,enharmonic,n/a,n/a,0:05,8,"324.0, 332.4, 341.3, 432.0, 486.0, 498.7, 512.0, 648.0",432.0
+x_shd_tetra_dj,x_shd_tetra_dj.mp3,Aristoxenus,diatonic,sharp diatonic,n/a,0:05,8,"324.0, 343.2, 385.0, 432.0, 486.0, 514.8, 577.6, 648.0",432.0
+x_sod_tetra_dj,x_sod_tetra_dj.mp3,Aristoxenus,diatonic,soft diatonic,n/a,0:05,8,"324.0, 343.2, 374.1, 432.0, 486.0, 514.8, 561.2, 648.0",432.0
+x_tc_tetra_dj,x_tc_tetra_dj.mp3,Aristoxenus,chromatic,tonic chromatic,n/a,0:05,8,"324.0, 343.2, 363.5, 432.0, 486.0, 514.8, 545.3, 648.0",432.0
+x_hc_tetra_dj,x_hc_tetra_dj.mp3,Aristoxenus,chromatic,hemiolic chromatic,n/a,0:05,8,"324.0, 338.3, 353.2, 432.0, 486.0, 507.4, 529.8, 648.0",432.0
+x_sc_tetra_dj,x_sc_tetra_dj.mp3,Aristoxenus,chromatic,soft chromatic,n/a,0:05,8,"324.0, 336.7, 349.8, 432.0, 486.0, 505.0, 524.8, 648.0",432.0
+x_e_tetra_dj,x_e_tetra_dj.mp3,Aristoxenus,enharmonic,n/a,n/a,0:05,8,"324.0, 333.5, 343.2, 432.0, 486.0, 500.2, 514.8, 648.0",432.0
+y_d_tetra_dj,y_d_tetra_dj.mp3,Archytas,diatonic,n/a,n/a,0:05,8,"324.0, 336.0, 384.0, 432.0, 486.0, 504.0, 576.0, 648.0",432.0
+y_c_tetra_dj,y_c_tetra_dj.mp3,Archytas,chromatic,n/a,n/a,0:05,8,"324.0, 336.0, 364.5, 432.0, 486.0, 504.0, 546.8, 648.0",432.0
+y_e_tetra_dj,y_e_tetra_dj.mp3,Archytas,enharmonic,n/a,n/a,0:05,8,"324.0,  336.0, 345.6, 432.0, 486.0, 504.0, 518.4, 648.0",432.0
